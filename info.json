@@ -1,0 +1,1502 @@
+[
+    {
+        "title": "MedPraxis",
+        "link": "https://spb.zoon.ru/medical/tsentr_semejnoj_meditsiny_medpraxis_v_kudrovo/",
+        "address": "Всеволожский район, Заневское городское поселение, деревня Кудрово, Австрийская улица, 4к1, Санкт-Петербург"
+    },
+    {
+        "title": "Династия",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_dinastiya_na_ulitse_lenina/",
+        "address": "улица Ленина, 5, 2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Династия",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_dinastiya_na_oktyabrskom_prospekte_vo_vsevolozhske/",
+        "address": "Октябрьский проспект, 96А, Всеволожск"
+    },
+    {
+        "title": "ЕвроМедика",
+        "link": "https://spb.zoon.ru/medical/mnogoprofilnaya_klinika_evromedika_na_komendantskom_prospekte/",
+        "address": "Комендантский проспект, 17 к1, Санкт-Петербург"
+    },
+    {
+        "title": "Многопрофильная клиника Профимедика",
+        "link": "https://spb.zoon.ru/medical/mnogoprofilnaya_klinika_profimedika_na_bogatyrskom_prospekte/",
+        "address": "Богатырский проспект, 64к1, Санкт-Петербург"
+    },
+    {
+        "title": "Династия",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_dinastiya_na_ulitse_repischeva/",
+        "address": "Репищева улица, 13, Санкт-Петербург"
+    },
+    {
+        "title": "Многопрофильный медицинский центр МСЧ №157",
+        "link": "https://spb.zoon.ru/medical/mnogoprofilnyj_meditsinskij_tsentr_msch_157_na_varshavskoj_ulitse/",
+        "address": "Варшавская улица, 100, Санкт-Петербург"
+    },
+    {
+        "title": "МЕДА",
+        "link": "https://spb.zoon.ru/medical/semejnaya_klinika_meda_v_pushkine/",
+        "address": "Санкт-Петербург, Пушкинский район, улица Архитектора Данини, 11/6, Пушкин"
+    },
+    {
+        "title": "Мир семьи",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_mir_semi_na_metro_parnas/",
+        "address": "посёлок Парголово, улица Михаила Дудина, 25к2, Санкт-Петербург"
+    },
+    {
+        "title": "Гранти-Мед",
+        "link": "https://spb.zoon.ru/medical/mnogoprofilnyj_meditsinskij_tsentr_granti-med_na_ulitse_korneeva/",
+        "address": "улица Корнеева, 6, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Многопрофильная клиника АБИА",
+        "link": "https://spb.zoon.ru/medical/mnogoprofilnaya_klinika_abia_na_prospekte_korolyova/",
+        "address": "проспект Королёва, 48к7, Санкт-Петербург"
+    },
+    {
+        "title": "Лиана",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_liana_na_moskovskom_prospekte/",
+        "address": "Московский проспект, 36, 1-2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Клиника СМТ (Поликлинический комплекс)",
+        "link": "https://spb.zoon.ru/medical/klinika_smt_poliklinicheskij_kompleks_na_moskovskom_prospekte_22/",
+        "address": "Московский проспект, 22, 1-4 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "МедПросвет",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_medprosvet_na_prospekte_engelsa/",
+        "address": "проспект Энгельса, 147к1, 2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Lahta Junior",
+        "link": "https://spb.zoon.ru/medical/detskij_meditsinskij_tsentr_lahta_junior_na_metro_staraya_derevnya/",
+        "address": "улица Савушкина, 73/50, вход со стороны ул. Дибуновской, Санкт-Петербург"
+    },
+    {
+        "title": "Мудрый Доктор",
+        "link": "https://spb.zoon.ru/medical/tsentr_osteopaticheskoj_meditsiny_mudryj_doktor_na_novocherkasskom_prospekte/",
+        "address": "Новочеркасский проспект, 22, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Многопрофильная детская клиника Основа Дети",
+        "link": "https://spb.zoon.ru/medical/mnogoprofilnaya_detskaya_klinika_osnova_deti/",
+        "address": "Комендантский проспект, 2, лит. А, Санкт-Петербург"
+    },
+    {
+        "title": "Медикус",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_medikus_na_prospekte_marshala_blyuhera/",
+        "address": "проспект Маршала Блюхера, 7к3, Санкт-Петербург"
+    },
+    {
+        "title": "Амеда клиник северо-запад",
+        "link": "https://spb.zoon.ru/medical/ameda_klinik_severo-zapad_na_primorskom_prospekte/",
+        "address": "Приморский проспект, 137к1, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Альмеда",
+        "link": "https://spb.zoon.ru/medical/klinika_almeda_na_ulitse_dimitrova/",
+        "address": "улица Димитрова, 8к2, 1-й этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Альмадея",
+        "link": "https://spb.zoon.ru/medical/reabilitatsionnyj_tsentr_almadeya/",
+        "address": "проспект Тореза, 68, Санкт-Петербург"
+    },
+    {
+        "title": "Скандинавия Парадный квартал",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_skandinaviya_paradnyj_kvartal_na_metro_chernyshevskaya/",
+        "address": "Парадная улица, 7, Санкт-Петербург"
+    },
+    {
+        "title": "Гайде",
+        "link": "https://spb.zoon.ru/medical/mnogoprofilnyj_meditsinskij_tsentr_gajde_na_hersonskoj_ulitse_4_14/",
+        "address": "Херсонская улица, 4/14, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Скандинавия Приморское отделение",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_skandinaviya_primorskoe_otdelenie_na_ulitse_savushkina/",
+        "address": "улица Савушкина, 133к1, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Карелия",
+        "link": "https://spb.zoon.ru/medical/klinika_kareliya_na_kondratevskom_prospekte/",
+        "address": "Кондратьевский проспект, 64к4, Санкт-Петербург"
+    },
+    {
+        "title": "Медицинский центр Ева",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_eva_na_roschinskoj/",
+        "address": "Гатчина, Рощинская улица, 1А, Санкт-Петербург"
+    },
+    {
+        "title": "Клиника АрсВита",
+        "link": "https://spb.zoon.ru/medical/klinika_arsvita_na_muzhestva/",
+        "address": "проспект Тореза, 44к2, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Айсберг+",
+        "link": "https://spb.zoon.ru/medical/stomatologicheskaya_klinika_ajsberg_plus_na_ulitse_doblesti/",
+        "address": "улица Доблести, 26к1, Санкт-Петербург"
+    },
+    {
+        "title": "Панорама Мед",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_panorama_med_na_kingiseppskom_shosse_47_v_krasnom_sele/",
+        "address": "Санкт-Петербург, Кингисеппское шоссе, 47, Красное Село"
+    },
+    {
+        "title": "ЧудоДети",
+        "link": "https://spb.zoon.ru/medical/detskij_meditsinskij_tsentr_chudodeti_na_buharestskoj_ulitse/",
+        "address": "Бухарестская улица, 80, Санкт-Петербург"
+    },
+    {
+        "title": "Скандинавия отделение Северное",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_skandinaviya_otdelenie_severnoe_na_ulitse_ilyushina/",
+        "address": "улица Ильюшина, 4к1, Санкт-Петербург"
+    },
+    {
+        "title": "Медиус",
+        "link": "https://spb.zoon.ru/medical/klinika_semejnoj_meditsiny_medius_na_novoj_ulitse/",
+        "address": "Всеволожский район, Заневское городское поселение, городской посёлок Янино-1, Новая улица, 14Ак2, пом. 9-Н, Санкт-Петербург"
+    },
+    {
+        "title": "Медицентр",
+        "link": "https://spb.zoon.ru/medical/mnogoprofilnyj_meditsinskij_tsentr_meditsentr_na_allee_polikarpova/",
+        "address": "аллея Поликарпова, 6к2, вход с проспекта Испытателей, 13, Санкт-Петербург"
+    },
+    {
+        "title": "Медицинский центр XXI век",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_xxi_vek_na_ulitse_shavrova/",
+        "address": "Шаврова, 26 ст1, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Медицинский центр им. Г.И. Турнера для взрослых и детей",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_im_gi_turnera_dlya_vzroslyh_i_detej_na_petrogradskoj/",
+        "address": "Лахтинская улица, 12, Санкт-Петербург"
+    },
+    {
+        "title": "АльфаМед",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_alfamed_v_kudrovo/",
+        "address": "Всеволожский район, Заневское городское поселение, деревня Европейский проспект, 8, Кудрово"
+    },
+    {
+        "title": "Немецкая семейная клиника и стоматология",
+        "link": "https://spb.zoon.ru/medical/nemetskaya_semejnaya_klinika_i_stomatologiya_na_nevskom/",
+        "address": "Невский проспект, 114-116, вход с ул. Восстания, 8 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Скандинавия Фрунзенское отделение",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_skandinaviya_frunzenskoe_otdelenie/",
+        "address": "проспект Славы, 52к1, Санкт-Петербург"
+    },
+    {
+        "title": "Клиника Путь к Здоровью",
+        "link": "https://spb.zoon.ru/medical/klinika_put_k_zdorovyu_na_zagorodnoj_ulitse_v_kolpino/",
+        "address": "Санкт-Петербург, Загородная улица, 37к2, Колпино"
+    },
+    {
+        "title": "Инфант",
+        "link": "https://spb.zoon.ru/medical/mnogoprofilnyj_meditsinskij_tsentr_infant_na_prospekte_sizova/",
+        "address": "проспект Сизова, 25, Санкт-Петербург"
+    },
+    {
+        "title": "АльфаМед",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_alfamed_na_turistskoj_ulitse/",
+        "address": "Туристская улица, 24/42, Санкт-Петербург"
+    },
+    {
+        "title": "Здоровье",
+        "link": "https://spb.zoon.ru/medical/mnogoprofilnaya_klinika_zdorove_na_kolpinskom_shosse/",
+        "address": "Пушкинский район, посёлок Шушары, территория Славянка, Колпинское шоссе, 36к1, Санкт-Петербург"
+    },
+    {
+        "title": "Клиника остеопатии доктора Тимчука",
+        "link": "https://spb.zoon.ru/medical/klinika_osteopatii_doktora_timchuka_na_metro_chernyshevskaya/",
+        "address": "Парадная улица, 4, Санкт-Петербург"
+    },
+    {
+        "title": "Пеликан",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_pelikan/",
+        "address": "пр-кт Ириновский, д. 34, лит. А, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Euromed kids",
+        "link": "https://spb.zoon.ru/medical/detskaya_mnogoprofilnaya_klinika_euromed_kids_na_varshavskoj/",
+        "address": "ул. Варшавская, д. 61, корп. 1, Санкт-Петербург"
+    },
+    {
+        "title": "Медицинская коллегия",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_meditsinskaya_kollegiya/",
+        "address": "Мичуринская, 1, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "М+clinic",
+        "link": "https://spb.zoon.ru/medical/detskaya_klinika_m_plusclinic_v_kudrovo/",
+        "address": "д. Кудрово, ул. Ленинградская, д. 5, корп. 2, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Многопрофильная клиника ОНА",
+        "link": "https://spb.zoon.ru/medical/mnogoprofilnaya_klinika_ona_na_naberezhnoj_reki_fontanki/",
+        "address": "набережная реки Фонтанки, 110, вход в арку, Санкт-Петербург"
+    },
+    {
+        "title": "Медицинский центр XXI век",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_xxi_vek_na_ulitse_valeriya_gavrilina_v_pargolovo/",
+        "address": "Санкт-Петербург, посёлок улица Валерия Гаврилина, 11к1, Парголово"
+    },
+    {
+        "title": "Европейский Институт Здоровья Семьи",
+        "link": "https://spb.zoon.ru/medical/evropejskij_institut_zdorovya_semi_v_kolpino_na_bulvare_trudyaschihsya/",
+        "address": "Санкт-Петербург, бульвар Трудящихся, 35к1, 1 этаж, Колпино"
+    },
+    {
+        "title": "Юниорт",
+        "link": "https://spb.zoon.ru/medical/detskij_meditsinskij_tsentr_yuniort_na_optikov/",
+        "address": "ул. Оптиков д. 38 корп. 1, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детский Евромед (Euromed Kids)",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_detskij_evromed_euromed_kids_na_1-oj_nikitinskoj_ulitse/",
+        "address": "1-я Никитинская улица, 30А, Санкт-Петербург"
+    },
+    {
+        "title": "Перинатальный центр Клиническая больница, СПбГПМУ",
+        "link": "https://spb.zoon.ru/medical/perinatalnyj_tsentr_klinicheskaya_bolnitsa_spbgpmu_na_litovskoj_ulitse/",
+        "address": "Литовская, 2 лит Х, 2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Семья",
+        "link": "https://spb.zoon.ru/medical/osteopaticheskij_tsentr_semya_na_ulitse_lva_tolstogo/",
+        "address": "Льва Толстого, 7, 215 офис; 2 этаж; офисный дом На Льва Толстого 7, Санкт-Петербург"
+    },
+    {
+        "title": "Клиника ОСМ",
+        "link": "https://spb.zoon.ru/medical/klinika_osm_na_ulitse_professora_popova/",
+        "address": "улица Профессора Попова, 27, Санкт-Петербург"
+    },
+    {
+        "title": "Центр коррекции речи на проспекте Просвещения",
+        "link": "https://spb.zoon.ru/medical/tsentr_korrektsii_rechi_na_prospekte_prosvescheniya/",
+        "address": "проспект Просвещения, 15, 133; 140 офис; 2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Rossimed",
+        "link": "https://spb.zoon.ru/medical/mnogoprofilnaya_klinika_rossimed_na_rossijskom_prospekte/",
+        "address": "Российский проспект, 8, цокольный этаж, Санкт-Петербург"
+    },
+    {
+        "title": "ДГМКЦ ВМТ им. К.А. Раухфуса",
+        "link": "https://spb.zoon.ru/medical/detskij_mnogoprofilnyj_tsentr_dgmkts_vmt_im_ka_rauhfusa_na_suvorovskom_prospekte/",
+        "address": "Суворовский проспект, 4, 1-4 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Медицинский центр МедиС",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_medis_na_shkolnoj_ulitse/",
+        "address": "Тосненский район, Никольское, Школьная улица, 2Б, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Медиус",
+        "link": "https://spb.zoon.ru/medical/klinika_semejnoj_meditsiny_medius_na_sotsialisticheskoj_ulitse_vo_vsevolozhske/",
+        "address": "Социалистическая улица, 107, 1-2 этаж, Всеволожск"
+    },
+    {
+        "title": "МедиС",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_medis_na_lesnoj_ulitse/",
+        "address": "Отрадное, Лесная, 5, 6 помещение; 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Педиатрический центр на Фурштатской улице",
+        "link": "https://spb.zoon.ru/medical/pediatricheskij_tsentr_na_furshtatskoj_ulitse/",
+        "address": "Фурштатская, 36а, 1 этаж; 3 подъезд, Санкт-Петербург"
+    },
+    {
+        "title": "Полис",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_obschej_vrachebnoj_praktiki_polis_na_moskovskom_shosse/",
+        "address": "Московское шоссе, 246, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Полис",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_obschej_vrachebnoj_praktiki_polis_na_krasnoselskom/",
+        "address": "Красносельское шоссе, д. 56, к. 2, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Полис",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_obschej_vrachebnoj_praktiki_polis_na_dunajskom/",
+        "address": "Дунайский просп., д. 7, кор. 7, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Феникс-мед",
+        "link": "https://spb.zoon.ru/medical/detskij_meditsinskij_tsentr_feniks-med_v_pushkinskom_rajone/",
+        "address": "Пушкинский район, посёлок Шушары, Новгородский проспект, 6, Санкт-Петербург"
+    },
+    {
+        "title": "Немецкая семейная клиника",
+        "link": "https://spb.zoon.ru/medical/mnogoprofilnyj_meditsinskij_tsentr_nemetskaya_semejnaya_klinika_na_varshavskoj/",
+        "address": "ул. Варшавская, д. 23, к. 1, Санкт-Петербург"
+    },
+    {
+        "title": "Полис",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_obschej_vrachebnoj_praktiki_polis_na_politruka_pasechnika/",
+        "address": "ул. Политрука Пасечника д. 8, Санкт-Петербург"
+    },
+    {
+        "title": "Стомамедсервис",
+        "link": "https://spb.zoon.ru/medical/mnogoprofilnyj_meditsinskij_tsentr_stomamedservis_v_gatchine_na_ulitse_dostoevskogo/",
+        "address": "проспект 25 Октября, 16, 1-3 этаж, Гатчина"
+    },
+    {
+        "title": "Клиника ВКМБ",
+        "link": "https://spb.zoon.ru/medical/klinika_vkmb_na_doroge_zhizni/",
+        "address": "ш. Дорога Жизни, д. 17, Санкт-Петербург"
+    },
+    {
+        "title": "Балтийский медицинский центр",
+        "link": "https://spb.zoon.ru/medical/detskaya_klinika_baltijskij_meditsinskij_tsentr_na_ulitse_katernikov/",
+        "address": "улица Катерников, 5к2, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская больница №1",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_bolnitsa_1_na_ulitse_avangardnaya-4118/",
+        "address": "Авангардная, 14, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Клиническая больница Спбгпму",
+        "link": "https://spb.zoon.ru/medical/klinicheskaya_bolnitsa_spbgpmu_na_litovskoj_ulitse_v_shlisselburge/",
+        "address": "Санкт-Петербург, Литовская, 2 лит Я, Шлиссельбург"
+    },
+    {
+        "title": "Центральная медико-санитарная часть №38",
+        "link": "https://spb.zoon.ru/medical/tsentralnaya_mediko-sanitarnaya_chast_no38_na_ulitse_kosmonavtov_v_sosnovom_boru/",
+        "address": "улица Космонавтов, 3 к1, Сосновый Бор"
+    },
+    {
+        "title": "Консультативно-диагностический центр для детей №2",
+        "link": "https://spb.zoon.ru/medical/konsultativno-diagnosticheskij_tsentr_dlya_detej_2_v_kirovskom_rajone/",
+        "address": "Гладкова, 4, 1-2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Центр семейной медицины СЗГМУ им. И.И. Мечникова",
+        "link": "https://spb.zoon.ru/medical/tsentr_semejnoj_meditsiny_szgmu_im_ii_mechnikova_na_prospekte_prosvescheniya/",
+        "address": "проспект Просвещения, 45, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Хадасса",
+        "link": "https://spb.zoon.ru/medical/klinika_hadassa/",
+        "address": "Пионерская, 55, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "7п медицина",
+        "link": "https://spb.zoon.ru/medical/7p_meditsina/",
+        "address": "Демьяна Бедного, 3, 1 этаж; отель Белое дерево, Санкт-Петербург"
+    },
+    {
+        "title": "Медикус",
+        "link": "https://spb.zoon.ru/medical/meditsinskij_tsentr_medikus/",
+        "address": "Орджоникидзе, 52 лит А, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская поликлиника №8",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_8_v_tsentralnom_rajone/",
+        "address": "ул. Чайковского, д. 73, 1-5 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №4",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_4_na_ulitse_korablestroitelej/",
+        "address": "Кораблестроителей, 21 к2, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Пгт. им. Свердлова Краснозвездинская поликлиника",
+        "link": "https://spb.zoon.ru/medical/pgt_im_sverdlova_krasnozvezdinskaya_poliklinika_v_poselke_imeni_sverdlova/",
+        "address": "городской пос. имени Свердлова, 1-й микрорайон, 21, 2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская поликлиника №35",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_35_na_ulitse_kostyushko/",
+        "address": "Костюшко, 4, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Консультативно-диагностический центр для детей",
+        "link": "https://spb.zoon.ru/medical/konsultativno-diagnosticheskij_tsentr_dlya_detej/",
+        "address": "ул. Олеко Дундича, д. 36, корп. 2, Санкт-Петербург"
+    },
+    {
+        "title": "Городская больница №40 Курортного района",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_bolnitsa_40_kurortnogo_rajona_na_ulitse_borisova_v_sestroretske/",
+        "address": "Санкт-Петербург, улица Борисова, 9, 1-5 этаж, Сестрорецк"
+    },
+    {
+        "title": "Поликлиника Токсовская районная больница",
+        "link": "https://spb.zoon.ru/medical/poliklinika_toksovskaya_rajonnaya_bolnitsa_na_metro_devyatkino/",
+        "address": "Новое Девяткино (Всеволожский район, Ленинградская обл.), Энергетиков, 4, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская поликлиника №35",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_35_na_leninskom_prospekte/",
+        "address": "пр. Ленинский, д. 168, корп. 2, Санкт-Петербург"
+    },
+    {
+        "title": "Поликлиника Рощинская районная больница",
+        "link": "https://spb.zoon.ru/medical/poliklinika_roschinskaya_rajonnaya_bolnitsa_na_sovetskoj_ulitse_v_v_pgt_roschino/",
+        "address": "городской пос. Рощино, Советская, 37, 1-2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Областная детская клиническая больница Стоматологическая поликлиника",
+        "link": "https://spb.zoon.ru/medical/oblastnaya_detskaya_klinicheskaya_bolnitsa_stomatologicheskaya_poliklinika_na_ulitse_komsomola-fa51/",
+        "address": "улица Комсомола, 6, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №111",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_111_na_olhovoj_ulitse_2/",
+        "address": "Ольховая улица, 2, 1-4 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Центр восстановительного лечения Детская психиатрия им. С.С. Мнухина",
+        "link": "https://spb.zoon.ru/medical/tsentr_vosstanovitelnogo_lecheniya_detskaya_psihiatriya_im_ss_mnuhina_na_metro_pushkinskaya/",
+        "address": "Подъездной переулок, 21, 3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №24",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_24_na_metro_frunzenskaya/",
+        "address": "набережная Обводного канала, 123, 1-5 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "РЖД-медицина",
+        "link": "https://spb.zoon.ru/medical/rzhd-meditsina_na_leningradskom_shosse_v_vyborge/",
+        "address": "Ленинградское шоссе, 23, Выборг"
+    },
+    {
+        "title": "Поликлиника №27",
+        "link": "https://spb.zoon.ru/medical/poliklinika_27_na_metro_sadovaya/",
+        "address": "проспект Римского-Корсакова, 35, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская поликлиника №44",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_44_v_tsentralnom_rajone-fe89/",
+        "address": "Мытнинская, 25 лит А, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская больница №2 Святой Марии Магдалины",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_bolnitsa_2_svyatoj_marii_magdaliny_na_14_linii/",
+        "address": "Васильевский о-в, 14-я линия д. 57, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская поликлиника №68",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_68_na_ulitse_peredovikov/",
+        "address": "Передовиков, 21, 1-4 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Клиника НИИ детских инфекций",
+        "link": "https://spb.zoon.ru/medical/klinika_nii_detskih_infektsij/",
+        "address": "ул. Профессора Попова, д. 9, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №24",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_24_v_admiraltejskom_rajone/",
+        "address": "набережная Обводного канала, 140а, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская больница Святой Ольги",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_bolnitsa_svyatoj_olgi_na_zemledelcheskoj_ulitse/",
+        "address": "Земледельческая, 2, 2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Всеволожская клиническая межрайонная больница",
+        "link": "https://spb.zoon.ru/medical/vsevolozhskaya_klinicheskaya_mezhrajonnaya_bolnitsa_na_koltushskom_shosse_vo_vsevolozhske/",
+        "address": "Колтушское шоссе, 20, 1-4 этаж, Всеволожск"
+    },
+    {
+        "title": "Тайцкая поликлиника",
+        "link": "https://spb.zoon.ru/medical/tajtskaya_poliklinika/",
+        "address": "городской пос. Тайцы, Советская, 13, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Стоматологическая поликлиника №29",
+        "link": "https://spb.zoon.ru/medical/stomatologicheskaya_poliklinika_29/",
+        "address": "ул. Будапештская, д. 69, корп. 1, 1-4 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №19",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_19_na_budapeshtskoj_ulitse/",
+        "address": "Будапештская, 6, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Поликлиника №2",
+        "link": "https://spb.zoon.ru/medical/dorozhnaya_klinicheskaya_bolnitsa_poliklinika_2_na_prospekte_mechnikova/",
+        "address": "проспект Мечникова, 23, 1-4 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская больница №40",
+        "link": "https://spb.zoon.ru/medical/stomatologicheskaya_poliklinika_gorodskaya_bolnitsa_40_na_ulitse_instrumentalschikov_v_sestroretske/",
+        "address": "Санкт-Петербург, улица Инструментальщиков, 11, 2-3 этаж, Сестрорецк"
+    },
+    {
+        "title": "Городская поликлиника №51",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_51_na_ordzhonikidze/",
+        "address": "ул. Орджоникидзе, д. 38, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника Детская поликлиника №46 №54",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_detskaya_poliklinika_46_54_na_bestuzhevskoj_ulitse/",
+        "address": "Бестужевская, 32, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская поликлиника №71",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_71_na_prospekte_engelsa_117/",
+        "address": "проспект Энгельса, 117, 1-4 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Поликлиника Городская больница №40",
+        "link": "https://spb.zoon.ru/medical/poliklinika_gorodskaya_bolnitsa_40_v_poselke_pesochnyj_na_leningradskoj_ulitse/",
+        "address": "Ленинградская, 52а, Санкт-Петербург"
+    },
+    {
+        "title": "Женская консультация №8 Детская городская поликлиника №68",
+        "link": "https://spb.zoon.ru/medical/zhenskaya_konsultatsiya_8_detskaya_gorodskaya_poliklinika_68_na_peredovikov/",
+        "address": "ул. Передовиков, д. 21, 2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детское поликлиническое отделение №59",
+        "link": "https://spb.zoon.ru/medical/detskoe_poliklinicheskoe_otdelenie_59_na_kirishskoj_ulitse/",
+        "address": "Киришская, 5 к2, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская больница Святой Ольги",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_bolnitsa_svyatoj_olgi_na_gavrskoj_ulitse/",
+        "address": "Гаврская, 5, 1-2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "НИИ акушерства, гинекологии и репродуктологии им. Д.О. Отта",
+        "link": "https://spb.zoon.ru/medical/nii_akusherstva_ginekologii_i_reproduktologii_im_do_otta_na_mendeleevskoj_linii-7e10/",
+        "address": "Менделеевская линия, 3, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №118",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_118_na_bajkova/",
+        "address": "Академика Байкова, 27, 1-4 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Кузьмоловская поликлиника",
+        "link": "https://spb.zoon.ru/medical/kuzmolovskaya_poliklinika/",
+        "address": "городской пос. Кузьмоловский, Победы, 7, 1-2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская поликлиника №68",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_68_na_prospekte_nastavnikov/",
+        "address": "проспект Наставников, 20 к1, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Тихвинская межрайонная больница им. А.Ф.Калмыкова",
+        "link": "https://spb.zoon.ru/medical/tihvinskaya_mezhrajonnaya_bolnitsa_im_afkalmykova_v_tihvine/",
+        "address": "улица Карла Маркса, 68 к6, 1 этаж, Тихвин"
+    },
+    {
+        "title": "Родильный дом Всеволожская клиническая межрайонная больница",
+        "link": "https://spb.zoon.ru/medical/rodilnyj_dom_vsevolozhskaya_klinicheskaya_mezhrajonnaya_bolnitsa_na_koltushskom_shosse_vo_vsevolozhske/",
+        "address": "Колтушское шоссе, 20г, 1-5 этаж, Всеволожск"
+    },
+    {
+        "title": "Городская поликлиника №114",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_114_v_lyzhnom_pereulke/",
+        "address": "Лыжный переулок, 5, 1-5 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская поликлиника №49 Пушкинского района",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_no49_pushkinskogo_rajona_na_kadetskom_bulvare_v_pushkine/",
+        "address": "Санкт-Петербург, Кадетский бульвар, 24, 1 этаж, Пушкин"
+    },
+    {
+        "title": "Детская поликлиника №45",
+        "link": "https://spb.zoon.ru/medical/detskaya_poliklinika_45_v_nevskom_rajone/",
+        "address": "пр. Товарищеский, д. 10, корп. 3, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская поликлиника № 7",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_no_7_na_ulitse_kustodieva/",
+        "address": "улица Кустодиева, 8, лит. А, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №118",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_118_na_ulitse_karpinskogo/",
+        "address": "Карпинского, 9 к4, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская поликлиника №73",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_73_na_ulitse_pinegina/",
+        "address": "улица Пинегина, 10, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №106",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_106_na_ulitse_riharda_zorge_13_k_1/",
+        "address": "Рихарда Зорге, 13 к1, 1-4 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская поликлиника №11",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_11_na_bolshom_sampsonievskom_prospekte/",
+        "address": "Большой Сампсониевский проспект, 62, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №72",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_72_v_poselke_metallostroj_na_shkolnoj_ulitse/",
+        "address": "Колпинский район, посёлок Металлострой, Школьная улица, 18/8, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "ДГКБ № 5 ИМ. Н.Ф. Филатова",
+        "link": "https://spb.zoon.ru/medical/dgkb_no_5_im_nf_filatova_na_buharestskoj_ulitse-09d7/",
+        "address": "Бухарестская, 134, вход со стороны Моравского переулка, Санкт-Петербург"
+    },
+    {
+        "title": "Всеволожская клиническая межрайонная больница",
+        "link": "https://spb.zoon.ru/medical/vsevolozhskaya_klinicheskaya_mezhrajonnaya_bolnitsa_v_d_kaltino/",
+        "address": "Колтушское шоссе, 19к1, 1 этаж, Всеволожск"
+    },
+    {
+        "title": "Городская поликлиника №37",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_no37_na_naberezhnoj_reki_fontanki/",
+        "address": "набережная реки Фонтанки, 36а, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №37",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_37_na_zagorodnom_prospekte/",
+        "address": "Загородный проспект, 29, 1-4 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №74",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_no74_na_ulitse_zosimova_v_kronshtadte/",
+        "address": "Санкт-Петербург, г. ул. Зосимова, д. 13, 1-4 этаж, Кронштадт"
+    },
+    {
+        "title": "Детская поликлиника №29",
+        "link": "https://spb.zoon.ru/medical/detskaya_poliklinika_29_na_demyana_bednogo/",
+        "address": "ул. Демьяна Бедного, д. 18, корп. 3, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Газпром",
+        "link": "https://spb.zoon.ru/medical/aptechnyj_punkt_na_metro_zvyozdnaya/",
+        "address": "Стартовая, 6 лит Д, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская поликлиника №29",
+        "link": "https://spb.zoon.ru/medical/detskaya_poliklinika_29_na_timurovskoj_ulitse/",
+        "address": "Тимуровская, 17 к2, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская поликлиника №51",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_51_na_ulitse_vavilova_v_kolpino/",
+        "address": "Санкт-Петербург, улица Вавилова, 1, 1-3 этаж, Колпино"
+    },
+    {
+        "title": "Городская поликлиника №30",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_30_na_malom_prospekte_ps/",
+        "address": "Малый проспект П.С., 15, 4 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Центр психолого-педагогической, медицинской и социальной помощи Колпинского района Санкт-Петербурга",
+        "link": "https://spb.zoon.ru/medical/tsentr_psihologo-pedagogicheskoj_meditsinskoj_i_sotsialnoj_pomoschi_kolpinskogo_rajona_sankt-peterburga/",
+        "address": "Веры Слуцкой, 32 к2 лит А, 1-2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Поликлиника Ломоносовская межрайонная больница им. И.Н. Юдченко",
+        "link": "https://spb.zoon.ru/medical/poliklinika_lomonosovskaya_mezhrajonnaya_bolnitsa_im_in_yudchenko_na_aleksandrovskoj_ulitse_v_lomonosove/",
+        "address": "Санкт-Петербург, Александровская улица, 30, 1 этаж, Ломоносов"
+    },
+    {
+        "title": "Городская поликлиника №63",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_63_na_simonova/",
+        "address": "Симонова, 3, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская поликлиника №17",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_17/",
+        "address": "ул. Есенина, д. 38, корп. 2, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Мать и дитя",
+        "link": "https://spb.zoon.ru/medical/klinika_i_gospital_mat_i_ditya/",
+        "address": "Лахтинский проспект, 100а ст1, 2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская поликлиника №68",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_68_na_metro_grazhdanskij_prospekt/",
+        "address": "улица Корнея Чуковского, 5к1, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Амбулатория Детская городская поликлиника №49",
+        "link": "https://spb.zoon.ru/medical/ambulatoriya_detskaya_gorodskaya_poliklinika_no49_na_rostovskoj_ulitse/",
+        "address": "Пушкинский район, посёлок Шушары, территория Славянка, Ростовская улица, 19/3, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №93",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_no93_v_gorelovo/",
+        "address": "территория Горелово, Школьная улица, 45, 1-2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская поликлиника №73",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_73_na_karavaevskoj_ulitse/",
+        "address": "ул. Караваевская, д. 30, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская поликлиника №35",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_35_na_metro_moskovskie_vorota/",
+        "address": "Детский переулок, 3, 1-2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Поликлиническое отделение Аэродром",
+        "link": "https://spb.zoon.ru/medical/poliklinicheskoe_otdelenie_aerodrom_na_bulvare_aviatorov_v_gatchine/",
+        "address": "бульвар Авиаторов, 4, Гатчина"
+    },
+    {
+        "title": "Консультативно-диагностический центр №85",
+        "link": "https://spb.zoon.ru/medical/konsultativno-diagnosticheskij_tsentr_85_na_krasnoputilovskoj_ulitse/",
+        "address": "Краснопутиловская улица, 7, 1-2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Лодейнопольская межрайонная больница",
+        "link": "https://spb.zoon.ru/medical/lodejnopolskaya_mezhrajonnaya_bolnitsa/",
+        "address": "Лодейнопольское городское поселение, улица Гагарина, 1, Лодейное Поле"
+    },
+    {
+        "title": "Детская поликлиника №37",
+        "link": "https://spb.zoon.ru/medical/detskaya_poliklinika_no37_na_brestskom_bulvare/",
+        "address": "Брестский бульвар, 3 к2 ст1, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №109",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_no109_na_kupchinskoj_ulitse_4_k_2/",
+        "address": "Купчинская улица, 4к2, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №24",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_24_na_naberezhnoj_reki_fontanki/",
+        "address": "набережная реки Фонтанки, 154 лит А, 1-4 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Поликлиника Отрадненская городская больница",
+        "link": "https://spb.zoon.ru/medical/poliklinika_otradnenskaya_gorodskaya_bolnitsa_na_ulitse_gagarina/",
+        "address": "ул. Гагарина, д. 3, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Поликлиника №69",
+        "link": "https://spb.zoon.ru/medical/poliklinika_69_v_zelenogorske/",
+        "address": "Комсомольская, 23а ст1, 4 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №43",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_43_na_ulitse_marshala_kazakova/",
+        "address": "улица Маршала Казакова, 14к2, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Консультативно-диагностический центр №85",
+        "link": "https://spb.zoon.ru/medical/konsultativno-diagnosticheskij_tsentr_85_na_prospekte_stachek/",
+        "address": "проспект Стачек, 59 к3, 1-2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская поликлиника №71",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_71_na_prospekte_engelsa_44_k_1-ff08/",
+        "address": "проспект Энгельса, 44 к1, 227-230 кабинет; 2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Пикалевская городская больница",
+        "link": "https://spb.zoon.ru/medical/pikalevskaya_gorodskaya_bolnitsa_na_sovetskoj_ulitse_v_pikalyovo/",
+        "address": "Бокситогорский район, Пикалёвское городское поселение, Советская улица, 31, Пикалёво"
+    },
+    {
+        "title": "Городская поликлиника №98",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_98_na_serebristom_bulvare/",
+        "address": "Серебристый бул., д. 14, корп. 1, 1-4 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №3 Детское поликлиническое отделение №5",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_3_detskoe_poliklinicheskoe_otdelenie_5/",
+        "address": "7-я линия Васильевского острова, 64, Санкт-Петербург"
+    },
+    {
+        "title": "Подпорожская межрайонная больница",
+        "link": "https://spb.zoon.ru/medical/podporozhskaya_mezhrajonnaya_bolnitsa/",
+        "address": "улица Исакова, 24, Подпорожье"
+    },
+    {
+        "title": "Городская поликлиника №44",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_44_na_budapeshtskoj_ulitse_25/",
+        "address": "Будапештская, 25, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №54",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_54_na_piskaryovskom_prospekte-a024/",
+        "address": "Пискарёвский проспект, 12, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская поликлиника №11",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_11_na_prospekte_parhomenko/",
+        "address": "проспект Пархоменко, 30, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №3",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_3_na_ulitse_korablestroitelej/",
+        "address": "Кораблестроителей, 31 к3, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Выборгская детская городская больница",
+        "link": "https://spb.zoon.ru/medical/bolnitsa_vyborgskaya_detskaya_gorodskaya_bolnitsa_na_leningradskom_shosse_v_vyborge/",
+        "address": "Ленинградское шоссе, 26, Выборг"
+    },
+    {
+        "title": "Детская поликлиника Никольская городская больница",
+        "link": "https://spb.zoon.ru/medical/detskaya_poliklinika_nikolskaya_gorodskaya_bolnitsa_na_shkolnoj_ulitse/",
+        "address": "Никольское, Школьная, 13, 1-2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская поликлиника №62",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_62_v_nevskom_rajone/",
+        "address": "Искровский проспект, 8, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Поликлиника Городская больница №40",
+        "link": "https://spb.zoon.ru/medical/poliklinika_gorodskaya_bolnitsa_40_v_zelenogorske_na_prospekte_krasnyh_komandirov/",
+        "address": "проспект Красных Командиров, 45, 1-2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская поликлиника №68",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_68_na_prospekte_shaumyana/",
+        "address": "проспект Шаумяна, 29, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Поликлиника Женская консультация №12 №49",
+        "link": "https://spb.zoon.ru/medical/poliklinika_zhenskaya_konsultatsiya_12_49_na_lanskoj/",
+        "address": "Ланская, 8, 2-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Гатчинская клиническая межрайонная больница",
+        "link": "https://spb.zoon.ru/medical/gatchinskaya_klinicheskaya_mezhrajonnaya_bolnitsa_na_ulitse_uritskogo_v_gatchine/",
+        "address": "улица Урицкого, 1, 1-7 этаж, Гатчина"
+    },
+    {
+        "title": "Детская городская поликлиника №51",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_51_v_kolpino/",
+        "address": "Санкт-Петербург, г. ул. Металлургов, д. 11, лит. А, 1-3 этаж, Колпино"
+    },
+    {
+        "title": "Приозерская межрайонная больница",
+        "link": "https://spb.zoon.ru/medical/priozerskaya_mezhrajonnaya_bolnitsa/",
+        "address": "Приозерск, улица Калинина, 35, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская поликлиника №68",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_68_na_ulitse_kommuny/",
+        "address": "Коммуны, 32 к1, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Вирилис",
+        "link": "https://spb.zoon.ru/medical/virilis/",
+        "address": "Морская набережная, 21 к1, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Стоматологическая поликлиника №31",
+        "link": "https://spb.zoon.ru/medical/stomatologicheskaya_poliklinika_31_na_prospekte_solidarnosti/",
+        "address": "проспект Солидарности, 12 к1, 1-4 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №54",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_54_na_vasenko/",
+        "address": "Васенко, 9, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №63",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_63_v_poselke_pargolovo_na_ulitse_lomonosova/",
+        "address": "Ломоносова, 76, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская поликлиника №71",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_71_na_zarechnoj_ulitse_19_k_1/",
+        "address": "Заречная, 19 к1, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Больнично-поликлинический комплекс",
+        "link": "https://spb.zoon.ru/medical/bolnichno-poliklinicheskij_kompleks/",
+        "address": "Пограничная, 8 к1, Сертолово"
+    },
+    {
+        "title": "Детская городская поликлиника №73",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_73_na_lesnozavodskoj_ulitse/",
+        "address": "Леснозаводская, 6, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №71",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_71_v_pontonnom/",
+        "address": "Александра Товпеко, 17 лит А, Санкт-Петербург"
+    },
+    {
+        "title": "№91",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_91_na_prospekte_veteranov_169_k_1/",
+        "address": "проспект Ветеранов, 169 к1, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "№44",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_44_na_metro_ligovskij_prospekt/",
+        "address": "Кременчугская, 13 к2, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №114",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_114_na_kamyshovoj_ulitse_48_k_2/",
+        "address": "Камышовая, 48 к2, 1-5 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Токсовская межрайонная поликлиника",
+        "link": "https://spb.zoon.ru/medical/toksovskaya_mezhrajonnaya_poliklinika/",
+        "address": "городской пос. Токсово, Буланова, 18а, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №74",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_74_v_kronshtadte_na_ulitse_komsomola/",
+        "address": "Комсомола, 2, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №74",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_74_v_kronshtadte_na_ulitse_stanyukovicha/",
+        "address": "Станюковича, 9, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская поликлиника №49 Пушкинского района",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_no49_pushkinskogo_rajona_v_pushkino_na_sofijskom_bulvare/",
+        "address": "Санкт-Петербург, г. Софийский бул., д. 28, 1-3 этаж, Пушкин"
+    },
+    {
+        "title": "Киришская клиническая межрайонная больница",
+        "link": "https://spb.zoon.ru/medical/kirishskaya_klinicheskaya_mezhrajonnaya_bolnitsa_na_molodezhnom_bulvare_v_kirishah/",
+        "address": "Молодёжный бульвар, 6, Кириши"
+    },
+    {
+        "title": "Городская поликлиника №56",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_56_na_prazhskoj_ulitse_38/",
+        "address": "Пражская улица, 38, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская поликлиника №71",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_71_na_zarechnoj_ulitse_41_str_1/",
+        "address": "Заречная, 41 ст1, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Сланцевская межрайонная больница",
+        "link": "https://spb.zoon.ru/medical/slantsevskaya_mezhrajonnaya_bolnitsa_na_ulitse_gagarina_2_v_slantsah/",
+        "address": "Сланцевское городское поселение, улица Гагарина, 2, Сланцы"
+    },
+    {
+        "title": "Детская городская поликлиника №51",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_51_na_ulitse_izhorskogo_batalona_v_kolpino_v_kolpino/",
+        "address": "Санкт-Петербург, улица Ижорского Батальона, 19, 1 этаж, Колпино"
+    },
+    {
+        "title": "Городская поликлиника №91",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_91_na_prospekte_veteranov/",
+        "address": "проспект Ветеранов, 143 к2, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №93",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_no93_v_gorelove_na_shkolnoj_ulitse/",
+        "address": "территория Горелово, Школьная улица, 45, Санкт-Петербург"
+    },
+    {
+        "title": "Детская поликлиника №67 Городская поликлиника №122",
+        "link": "https://spb.zoon.ru/medical/detskaya_poliklinika_67_gorodskaya_poliklinika_122_v_petergofe_na_ulitse_shahmatova/",
+        "address": "Санкт-Петербург, улица Шахматова, 12к4, 1 этаж, Петергоф"
+    },
+    {
+        "title": "Городская поликлиника Женская консультация №12 №49",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_zhenskaya_konsultatsiya_12_49_na_metro_begovaya/",
+        "address": "Школьная, 116, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская поликлиника №19",
+        "link": "https://spb.zoon.ru/medical/detskaya_poliklinika_19_na_aptekarskom_prospekte/",
+        "address": "Аптекарский проспект, 12, 2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Газпром",
+        "link": "https://spb.zoon.ru/medical/poliklinika_gazprom_na_moskovskom/",
+        "address": "Московский пр-т, д. 156, лит. А, 1-10 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская поликлиника №68",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_68_na_prospekte_metallistov/",
+        "address": "проспект Металлистов, 72 к2, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "№44",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_44/",
+        "address": "Турку, 5/13, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №72",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_72_na_pionerskoj_ulitse/",
+        "address": "Пионерская, 5а, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Гатчинская клиническая межрайонная больница",
+        "link": "https://spb.zoon.ru/medical/gatchinskaya_klinicheskaya_mezhrajonnaya_bolnitsa_na_ulitse_hohlova_9-d0ca/",
+        "address": "Хохлова, 9, 1 этаж, Гатчина"
+    },
+    {
+        "title": "Мгинская участковая больница",
+        "link": "https://spb.zoon.ru/medical/mginskaya_uchastkovaya_bolnitsa_na_sportivnoj_ulitse/",
+        "address": "городской пос. Мга, Спортивная улица, 1/59, 1-2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №23",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_23_na_kanonerskom_ostrove/",
+        "address": "Канонерский остров, 11, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Киришская клиническая межрайонная больница",
+        "link": "https://spb.zoon.ru/medical/kirishskaya_klinicheskaya_mezhrajonnaya_bolnitsa_na_sovetskoj_ulitse_v_kirishah/",
+        "address": "Советская улица, 4, Кириши"
+    },
+    {
+        "title": "Городская поликлиника №51",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_51_na_prospekte_kosmonavtov/",
+        "address": "проспект Космонавтов, 54, 1-4 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Купель",
+        "link": "https://spb.zoon.ru/medical/kupel_na_metro_ulitsa_dybenko/",
+        "address": "Товарищеский проспект, 10 к2, Санкт-Петербург"
+    },
+    {
+        "title": "Отраслевой клинико-диагностический центр Газпром",
+        "link": "https://spb.zoon.ru/medical/otraslevoj_kliniko-diagnosticheskij_tsentr_gazprom_na_ploschadi_pobedy/",
+        "address": "площадь Победы, 2, 1-2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №8",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_8_na_iskrovskom_prospekte/",
+        "address": "Искровский проспект, 33, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская поликлиника №49 Пушкинского района",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_no49_pushkinskogo_rajona_v_pavlovske/",
+        "address": "Мичурина, 3, 1; 2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "№63",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_63/",
+        "address": "Тихоокеанская, 14 к1, Санкт-Петербург"
+    },
+    {
+        "title": "Бокситогорская межрайонная больница",
+        "link": "https://spb.zoon.ru/medical/boksitogorskaya_mezhrajonnaya_bolnitsa_na_komsomolskoj_ulitse_v_boksitogorske/",
+        "address": "Комсомольская улица, 23, Бокситогорск"
+    },
+    {
+        "title": "Городская поликлиника №88",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_88_na_ulitse_tankista_hrustitskogo_3/",
+        "address": "Танкиста Хрустицкого, 3, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Сланцевская межрайонная больница",
+        "link": "https://spb.zoon.ru/medical/stomatologiya_stomatologicheskaya_poliklinika_v_slantsah/",
+        "address": "Санкт-Петербург, ул. Чкалова, 7, Сланцы"
+    },
+    {
+        "title": "Городская поликлиника №88",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_88_na_prospekte_veteranov/",
+        "address": "проспект Ветеранов, 89 к4, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская поликлиника Кировская центральная районная больница",
+        "link": "https://spb.zoon.ru/medical/detskaya_poliklinika_kirovskaya_tsentralnaya_rajonnaya_bolnitsa_na_severnoj_ulitse/",
+        "address": "ул. Северная, д. 13, 1-2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская психиатрия им. С.С. Мнухина",
+        "link": "https://spb.zoon.ru/medical/tsentr_vosstanovitelnogo_lecheniya_detskaya_psihiatriya_im_ss_mnuhina_na_leningradskoj_ulitse/",
+        "address": "Ленинградская, 52а, Санкт-Петербург"
+    },
+    {
+        "title": "№63",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_63_na_ulitse_mira/",
+        "address": "Мира, 26, Санкт-Петербург"
+    },
+    {
+        "title": "Детская поликлиника №30",
+        "link": "https://spb.zoon.ru/medical/detskaya_poliklinika_30_na_serebristom_bulvare/",
+        "address": "Серебристый бул., д. 14, корп. 2, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская поликлиника Сертоловская городская больница",
+        "link": "https://spb.zoon.ru/medical/detskaya_poliklinika_sertolovskaya_gorodskaya_bolnitsa_na_shkolnoj_ulitse_v_sertolovo/",
+        "address": "Школьная, 9, 1-2 этаж, Сертолово"
+    },
+    {
+        "title": "№49",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_49_na_staroj_derevne/",
+        "address": "Приморский проспект, 46, Санкт-Петербург"
+    },
+    {
+        "title": "Волховская межрайонная больница",
+        "link": "https://spb.zoon.ru/medical/detskaya_poliklinika_volhovskaya_mezhrajonnaya_bolnitsa_na_aviatsionnoj_ulitse_19_v_volhove/",
+        "address": "Авиационная улица, 19, Волхов"
+    },
+    {
+        "title": "Городская поликлиника №114",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_114_na_ulitse_shavrova/",
+        "address": "Шаврова, 21 к2, 1-4 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №49",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_49_v_poselke_lisij_nos/",
+        "address": "Морской проспект, 3, Санкт-Петербург"
+    },
+    {
+        "title": "Детская поликлиника №30",
+        "link": "https://spb.zoon.ru/medical/detskaya_poliklinika_30_na_koroleva_primorskogo_rajona/",
+        "address": "проспект Королёва, 3 к2, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "№10",
+        "link": "https://spb.zoon.ru/medical/protivotuberkuleznyj_dispanser_10_v_kurortnom_rajone/",
+        "address": "Санкт-Петербург, г. ул. Борисова, д. 7А, 2 этаж, Сестрорецк"
+    },
+    {
+        "title": "Детская поликлиника №19",
+        "link": "https://spb.zoon.ru/medical/detskaya_poliklinika_19_na_ulitse_kujbysheva/",
+        "address": "Куйбышева, 25, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №56",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_56_na_yuzhnom_shosse_53_k_2/",
+        "address": "Южное шоссе, 53 к2, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская поликлиника №67 Городская поликлиника №122",
+        "link": "https://spb.zoon.ru/medical/detskaya_poliklinika_67_gorodskaya_poliklinika_122_v_petergofe_na_ulitse_avrova/",
+        "address": "Аврова, 19, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №23",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_23_na_dvinskoj_ulitse/",
+        "address": "Двинская, 10, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №43",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_43_na_leninskom_prospekte/",
+        "address": "Ленинский проспект, 133 к2, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская поликлиника №30",
+        "link": "https://spb.zoon.ru/medical/detskaya_poliklinika_30_na_verbnoj_16/",
+        "address": "Вербная, 16, 1-4 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Подпорожская МБ",
+        "link": "https://spb.zoon.ru/medical/detskaya_poliklinika_detskaya_poliklinika_v_podporozhe/",
+        "address": "проспект Ленина, 29, Подпорожье"
+    },
+    {
+        "title": "Городская поликлиника №8",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_8_na_dalnevostochnom_prospekte/",
+        "address": "Дальневосточный проспект, 70, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №114",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_114_na_shkolnoj_ulitse/",
+        "address": "Школьная, 114 к1, 1-4 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская поликлиника №28",
+        "link": "https://spb.zoon.ru/medical/detskaya_poliklinika_28_v_krasnom_sele/",
+        "address": "Освобождения, 13, 3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №118",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_118_na_gzhatskoj_ulitse/",
+        "address": "Гжатская, 5, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Поликлиника Городская больница №40",
+        "link": "https://spb.zoon.ru/medical/poliklinika_gorodskaya_bolnitsa_40_na_ulitse_volodarskogo_v_sestroretske/",
+        "address": "Санкт-Петербург, г. ул. Володарского, д. 24, Сестрорецк"
+    },
+    {
+        "title": "Поликлиника Тосненской Центральной Районной Больницы",
+        "link": "https://spb.zoon.ru/medical/poliklinika_tosnenskoj_tsentralnoj_rajonnoj_bolnitsy_v_ulyanovke_na_svobodnoj_ulitse/",
+        "address": "городской пос. Ульяновка, Свободная, 16, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №49",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_49_na_shkolnoj_ulitse/",
+        "address": "Школьная, 16, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №22",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_22_v_kolpino/",
+        "address": "Санкт-Петербург, г. ул. Финляндская, дом 13, корпус 4Б, 1-4 этаж, Колпино"
+    },
+    {
+        "title": "Антелевская амбулатория",
+        "link": "https://spb.zoon.ru/medical/antelevskaya_ambulatoriya/",
+        "address": "д. Пудомяги, деревня Пудомяги, 8а, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №122",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_122_v_lomonosove_na_krasnoarmejskoj_ulitse/",
+        "address": "Красноармейская, 20, 1-4 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Ропшинская участковая больница",
+        "link": "https://spb.zoon.ru/medical/ropshinskaya_uchastkovaya_bolnitsa_v_lomonosovskom_rajone/",
+        "address": "пос. Ропша, Стрельнинское шоссе, 105, 2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Кобраловская врачебная амбулатория",
+        "link": "https://spb.zoon.ru/medical/kobralovskaya_vrachebnaya_ambulatoriya/",
+        "address": "пос. Кобралово, Центральная, 8, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №64",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_64_v_strelne/",
+        "address": "Львовская, 16 ст1, Санкт-Петербург"
+    },
+    {
+        "title": "№68",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_68/",
+        "address": "Ковалёвская, 26 ст1, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №23",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_23_na_ulitse_gladkova/",
+        "address": "улица Гладкова, 4/12, 1-2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №78",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_78_na_budapeshtskoj_ulitse/",
+        "address": "Будапештская, 66 к2, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №109",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_109_na_ulitse_oleko_dundicha_26_k_1/",
+        "address": "Олеко Дундича, 26 к1, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "№19 отделение Абилитации Фрунзенского района",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_no19_otdelenie_abilitatsii_frunzenskogo_rajona/",
+        "address": "Будапештская, 6, 2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Морозовская городская больница",
+        "link": "https://spb.zoon.ru/medical/morozovskaya_gorodskaya_bolnitsa_na_ladozhskoj_ulitse/",
+        "address": "городской пос. имени Морозова, Ладожская, 42, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "№49",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_49_v_primorskom_rajone/",
+        "address": "Юнтоловский проспект, 47 к3 лит А, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Волосовская межрайонная больница",
+        "link": "https://spb.zoon.ru/medical/volosovskaya_mezhrajonnaya_bolnitsa/",
+        "address": "улица Хрустицкого, 76, Волосово"
+    },
+    {
+        "title": "Городская поликлиника №114",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_114_na_metro_pionerskaya/",
+        "address": "Серебристый бульвар, 23 к2, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №43",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_43_na_prospekte_stachek/",
+        "address": "проспект Стачек, 142, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Скорая медицинская помощь Детская городская поликлиника №73",
+        "link": "https://spb.zoon.ru/medical/skoraya_meditsinskaya_pomosch_na_proletarskoj/",
+        "address": "Леснозаводская, 6, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Каменногорская городская больница",
+        "link": "https://spb.zoon.ru/medical/kamennogorskaya_gorodskaya_bolnitsa_v_kamennogorske/",
+        "address": "Ленинградское шоссе, 117, Каменногорск"
+    },
+    {
+        "title": "Газпром",
+        "link": "https://spb.zoon.ru/medical/poliklinika_gazprom_na_startovoj_ulitse/",
+        "address": "ул. Стартовая, д. 6, литера Д, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №122 г. Санкт-Петербург",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_122_g_sankt-peterburg/",
+        "address": "Швейцарская, 19/22, 1 этаж; Детское районное противотуберкулезное отделение, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №4",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_4/",
+        "address": "Морская набережная, 17 к1, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Гатчинская клиническая межрайонная больница",
+        "link": "https://spb.zoon.ru/medical/gatchinskaya_klinicheskaya_mezhrajonnaya_bolnitsa_na_ulitse_belyaeva_v_gatchine/",
+        "address": "Беляева, 39, 1-2 этаж, Гатчина"
+    },
+    {
+        "title": "Пудостьская амбулатория",
+        "link": "https://spb.zoon.ru/medical/pudostskaya_ambulatoriya_v_ivanovke/",
+        "address": "д. Ивановка (Пудостьское сп), деревня Ивановка, 9а, 2 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №91",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_91_na_ulitse_tambasova/",
+        "address": "Тамбасова, 23 к1, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Центр здоровья на Школьной улице",
+        "link": "https://spb.zoon.ru/medical/tsentr_zdorovya_na_shkolnoj_ulitse/",
+        "address": "Школьная, 114 к1, 123 кабинет; 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №8",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_8_na_metro_proletarskaya/",
+        "address": "Русановская улица, 17к2, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Сланцевская межрайонная больница",
+        "link": "https://spb.zoon.ru/medical/slantsevskaya_mezhrajonnaya_bolnitsa_na_ulitse_gagarina_4_v_slantsah/",
+        "address": "Сланцевское городское поселение, улица Гагарина, 4, Сланцы"
+    },
+    {
+        "title": "Детская городская поликлиника №49 Пушкинского района",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_no49_pushkinskogo_rajona_v_pushkino_na_ulitse_vyacheslava_shishkova/",
+        "address": "Вячеслава Шишкова, 32, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Сиверская районная больница",
+        "link": "https://spb.zoon.ru/medical/siverskaya_rajonnaya_bolnitsa_na_vostochnoj_ulitse_v_gatchine/",
+        "address": "городской пос. Сиверский, Восточная улица, 2, Гатчина"
+    },
+    {
+        "title": "Городская поликлиника №63",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_63_na_priozerskom_shosse/",
+        "address": "Приозерское шоссе, 12 лит АЛ1, лит. А, Санкт-Петербург"
+    },
+    {
+        "title": "№74",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_74_na_internatsionalnoj_ulitse/",
+        "address": "Интернациональная, 6, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Киришская клиническая межрайонная больница",
+        "link": "https://spb.zoon.ru/medical/detskaya_poliklinika_na_sovetskoj_ulitse/",
+        "address": "Советская улица, 4, Кириши"
+    },
+    {
+        "title": "Кингисеппская детская поликлиника:",
+        "link": "https://spb.zoon.ru/medical/detskaya_poliklinika_na_ulitse_1-ya_liniya/",
+        "address": "1-я линия, 9, Кингисепп"
+    },
+    {
+        "title": "№49 Пушкинского района",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_no49_pushkinskogo_rajona/",
+        "address": "Вилеровский переулок, 8, Вход в поликлинику находиться во дворе в углу дома. подъезд, Санкт-Петербург"
+    },
+    {
+        "title": "Лужская МБ",
+        "link": "https://spb.zoon.ru/medical/detskaya_poliklinika_luzhskaya_mb_na_leningradskom_shosse_7a/",
+        "address": "Луга, Ленинградское шоссе, 7а, Санкт-Петербург"
+    },
+    {
+        "title": "Сяськелевская врачебная амбулатория",
+        "link": "https://spb.zoon.ru/medical/ambulatoriya_na_tsentralnoj_ulitse/",
+        "address": "д. Сяськелево, Центральная, 1а, Санкт-Петербург"
+    },
+    {
+        "title": "№122",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_122/",
+        "address": "Львовская, 16 ст1, Санкт-Петербург"
+    },
+    {
+        "title": "Кировская межрайонная больница",
+        "link": "https://spb.zoon.ru/medical/detskaya_poliklinika_kirovskaya_mezhrajonnaya_bolnitsa/",
+        "address": "Староладожский канал, 24, 1-2 этаж, Шлиссельбург"
+    },
+    {
+        "title": "Семринский фельдшерско-акушерский пункт",
+        "link": "https://spb.zoon.ru/medical/gatchinskaya_klinicheskaya_mezhrajonnaya_bolnitsa_semrinskij_feldshersko-akusherskij_punkt/",
+        "address": "пос. Семрино, 1-я линия, 21, Санкт-Петербург"
+    },
+    {
+        "title": "Волховская межрайонная больница",
+        "link": "https://spb.zoon.ru/medical/volhovskaya_mezhrajonnaya_bolnitsa/",
+        "address": "Авиационная улица, 42, Волхов"
+    },
+    {
+        "title": "Вырицкая детская консультация",
+        "link": "https://spb.zoon.ru/medical/vyritskaya_detskaya_konsultatsiya/",
+        "address": "городской пос. Вырица, улица Бакунина, 48, Санкт-Петербург"
+    },
+    {
+        "title": "Детская поликлиника в Волосово",
+        "link": "https://spb.zoon.ru/medical/detskaya_poliklinika_v_volosovo/",
+        "address": "Краснофлотская улица, 1, Волосово"
+    },
+    {
+        "title": "Назийская районная больница",
+        "link": "https://spb.zoon.ru/medical/nazijskaya_rajonnaya_bolnitsa/",
+        "address": "городской пос. Назия, Больничная улица, 2, Санкт-Петербург"
+    },
+    {
+        "title": "Киришская детская поликлиника",
+        "link": "https://spb.zoon.ru/medical/kirishskaya_detskaya_poliklinika/",
+        "address": "проспект Героев, 36, 4 этаж, Кириши"
+    },
+    {
+        "title": "ГБУЗ Выборгская МБ",
+        "link": "https://spb.zoon.ru/medical/poliklinika_gbuz_vyborgskaya_mb/",
+        "address": "городской пос. Советский, Комсомольская улица, 1, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №91",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_91/",
+        "address": "Отважных, 12, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Приморская районная больница",
+        "link": "https://spb.zoon.ru/medical/primorskaya_rajonnaya_bolnitsa-9e5e/",
+        "address": "пос. Глебычево, улица Глебычево, 9, 1 кабинет, Санкт-Петербург"
+    },
+    {
+        "title": "Любаньская городская поликлиника",
+        "link": "https://spb.zoon.ru/medical/lyubanskaya_gorodskaya_poliklinika/",
+        "address": "Больничная улица, 10, Любань"
+    },
+    {
+        "title": "Городская поликлиника №106",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_106_na_ulitse_marshala_zaharova/",
+        "address": "улица Маршала Захарова, 31, 1-3 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская поликлиника №19",
+        "link": "https://spb.zoon.ru/medical/detskaya_poliklinika_19_na_metro_gorkovskaya/",
+        "address": "Воскова, 15-17, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Детская городская поликлиника №71",
+        "link": "https://spb.zoon.ru/medical/detskaya_gorodskaya_poliklinika_71_na_bolshom_sampsonievskom_prospekte/",
+        "address": "Большой Сампсониевский проспект, 23, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Городская поликлиника №106",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_106_na_prospekte_geroev/",
+        "address": "проспект Героев, 26 к3 лит А, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "Амбулатория Детская городская поликлиника №49",
+        "link": "https://spb.zoon.ru/medical/ambulatoriya_detskaya_gorodskaya_poliklinika_no49_v_pushkinskom_rajone/",
+        "address": "Пушкинский район, посёлок Шушары, территория Славянка, Ростовская улица, 13-15, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "№67 Городская поликлиника №122",
+        "link": "https://spb.zoon.ru/medical/detskaya_poliklinika_67_gorodskaya_poliklinika_122/",
+        "address": "Парковая, 20 к3 ст4, 1 этаж, Санкт-Петербург"
+    },
+    {
+        "title": "№49",
+        "link": "https://spb.zoon.ru/medical/gorodskaya_poliklinika_49_na_rostovskoj_ulitse/",
+        "address": "Ростовская, 13-15 лит А, 1 этаж, Санкт-Петербург"
+    }
+]
